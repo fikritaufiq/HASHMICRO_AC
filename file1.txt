@@ -1,3 +1,4 @@
 file pertama
 updated dari github
 updated1 dari github
+updated2 dari lokal
